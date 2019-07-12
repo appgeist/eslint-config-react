@@ -1,0 +1,35 @@
+{
+  "name": "@appgeist/eslint-config-react",
+  "version": "1.0.0",
+  "description": "Opinionated eslint/prettier config for Next.js/React projects",
+  "keywords": [
+    "eslint",
+    "prettier",
+    "config",
+    "sensible defaults",
+    "react",
+    "next.js"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/appgeist/eslint-config-react",
+  "bugs": {
+    "url": "https://github.com/appgeist/eslint-config-react/issues"
+  },
+  "author": {
+    "name": "Ionut-Cristian Florescu",
+    "email": "ionut.florescu@gmail.com",
+    "url": "https://github.com/icflorescu"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.2",
+    "prettier": "^1.18.2"
+  }
+}
