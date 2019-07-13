@@ -13,6 +13,10 @@ Add `"extends": "@appgeist/eslint-config-react"` to your `.eslintrc.json`.
 
 See [index.js](index.js).
 
+## License
+
+The [ISC License](LICENSE).
+
 [npm-image]: https://img.shields.io/npm/v/@appgeist/eslint-config-react.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/@appgeist/eslint-config-react
 [license-image]: https://img.shields.io/npm/l/@appgeist/eslint-config-react.svg?style=flat-square
