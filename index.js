@@ -39,7 +39,7 @@ module.exports = {
     'space-infix-ops': 'error',
     'global-require': 'off',
     'radix': 'off',
-    'quotes': ['error', 'single', 'avoid-escape'],
+    'quotes': ['warn', 'single', { avoidEscape: true, allowTemplateLiterals: true }],
     'quote-props': ['error', 'consistent'],
     'import/no-unresolved': ['error', { ignore: [ 'mdi-react' ] }],
     'react/jsx-filename-extension': ['error', { extensions: ['.js'] }],
