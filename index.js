@@ -47,6 +47,7 @@ module.exports = {
     'react/jsx-one-expression-per-line': 'off',
     'react/jsx-closing-tag-location': 'off',
     'react/destructuring-assignment': 'off',
+    'react/jsx-props-no-spreading': 'off',
     'react/button-has-type': 'off',
     'jsx-a11y/anchor-is-valid': ['error', { aspects: ['invalidHref', 'preferButton'] }],
     'jsx-a11y/label-has-for': 'off',
