@@ -27,7 +27,6 @@ module.exports = {
     'no-restricted-globals': 'off',
     'no-plusplus': 'off',
     'no-param-reassign': ['error', { props: false }],
-    'arrow-parens': ['error', 'as-needed', { requireForBlockBody: true }],
     'function-paren-newline': ['error', 'consistent'],
     'space-in-parens': ['error', 'never'],
     'object-curly-newline': ['error', { consistent: true, multiline: true }],
